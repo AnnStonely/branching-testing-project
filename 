@@ -1,0 +1,35 @@
+[33mcommit b938d85f1c2ed09fd5fc952b9834797f662157e3[m[33m ([m[1;36mHEAD -> [m[1;32mblue_theme[m[33m)[m
+Author: Ann <ann.stonely@gmail.com>
+Date:   Thu May 20 17:42:37 2021 -0700
+
+    add styles to h1, h2, p, and body to fit the blue theme.
+
+[33mcommit dab35d7e47d3ab356476724815248e4b33f2586a[m[33m ([m[1;32mmain[m[33m)[m
+Author: Ann <ann.stonely@gmail.com>
+Date:   Thu May 20 17:33:29 2021 -0700
+
+    add css rule to make H1 headings blue
+
+[33mcommit 306f6f5f56931920763852261140ce3dbf187250[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Ann <ann.stonely@gmail.com>
+Date:   Thu May 20 17:31:31 2021 -0700
+
+    update with link to css
+
+[33mcommit c6490ebe4c4a5b400d53c0b4a34d6fbc6dc40b0d[m
+Author: Ann <ann.stonely@gmail.com>
+Date:   Thu May 20 17:30:04 2021 -0700
+
+    add stylesheet
+
+[33mcommit b8793fe3c8b71116343f0b62839711631ceb16ad[m
+Author: Ann <ann.stonely@gmail.com>
+Date:   Thu May 20 17:26:46 2021 -0700
+
+    add initial html file with explanation of branching practice site
+
+[33mcommit 37bc6b44d1acf5d85c34c76753114ca9a40101d2[m
+Author: Ann <ann.stonely@gmail.com>
+Date:   Thu May 20 16:56:14 2021 -0700
+
+    initial commit
