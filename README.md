@@ -15,7 +15,7 @@ This is a very empty page with almost no content. I used it to learn git branche
 
 ## Setup /Installation Requirements
 
-* This page will need to be cloned from https://github.com/AnnStonely/branching-testing-project
+* This page will need to be cloned from https://github.com/AnnStonely/branching-testing-project once you have it on your desktop you can open the branching-website file in your browser.
 
 ## Known Bugs
 
